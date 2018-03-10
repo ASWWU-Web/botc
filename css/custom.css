@@ -69,6 +69,8 @@ video#bgvid {
   justify-content: center;
   align-items: center;
   height: inherit;
+  font-size: 120px;
+  font-weight: bold;
 }
 #voiceLogo {
   height:50px;
